@@ -1,0 +1,6 @@
+{
+  "name": "Fourier-Motzkin Inequality Solver",
+  "description": "Step-by-step solver for systems of linear inequalities using the Fourier-Motzkin elimination and companion systems method.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
